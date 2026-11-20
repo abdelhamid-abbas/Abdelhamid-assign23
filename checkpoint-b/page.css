@@ -1,0 +1,10 @@
+﻿body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #ffffff;
+  color: #111827;
+}
+
+.listing {
+  padding: 8px 12px;
+  color: #111827;
+}
